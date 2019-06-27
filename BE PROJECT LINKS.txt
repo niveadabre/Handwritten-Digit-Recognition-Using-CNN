@@ -1,0 +1,15 @@
+
+https://www.youtube.com/watch?v=7kpYpmw5FfE
+https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+http://ufldl.stanford.edu/wiki/index.php/Using_the_MNIST_Dataset
+
+https://keras.io/
+http://deeplearning.net/software/theano/
+http://scikit-learn.org/stable/
+
+https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/
+https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
+http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+
