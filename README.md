@@ -1,10 +1,10 @@
-##Project Topic:
+## Project Topic:
 Handwritten Digit Recognition Using Convolutional Neural Network (Deep Learning)
 
-##Objective:
+## Objective:
 Nowdays, Convolutional Neural Networks (CNNs) have become an emergent topic in machine learning. It has lead its importance in various different applications such as music and speech recognition, image processing, and sentence classification to name a few. We need to achieve high accuracy rate close to human brain’s neural network, to gain high accuracy as close to 100% as possible and minimization of the error rate. Various techniques have been proposed over the years to achieve these goals.
 
-##Dataset Description:
+## Dataset Description:
 MNIST Dataset The MNIST dataset, a subset of a larger set NIST, is a database of 70,000 handwritten digits, divided into 60,000 training examples and 10,000 testing samples. The images in the MNIST dataset are present in form of an array consisting of 28x28 values representing an image along with their labels. This is also the same in case of the testing images.
 The data is stored in four files:
 
