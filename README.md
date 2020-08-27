@@ -9,13 +9,13 @@ MNIST Dataset The MNIST dataset, a subset of a larger set NIST, is a database of
 
 The data is stored in four files:
 
-train-images-idx3-ubyte: training set images
+1. train-images-idx3-ubyte: training set images
 
-train-labels-idx1-ubyte: training set labels
+2. train-labels-idx1-ubyte: training set labels
 
-t10k-images-idx3-ubyte: test set images
+3. t10k-images-idx3-ubyte: test set images
 
-t10k-labels-idx1-ubyte: test set labels
+4. t10k-labels-idx1-ubyte: test set labels
 
 
 MNIST Dataset Format Analysis As you can see from above, the MNIST data is provided in a specific format. So, to be able to read the dataset it is first important to know that in what format the data is available to us. Both the Training and Testing images and labels have the first two columns consisting of the “Magic Number” and the number of items in the file.The magic number has its first two bytes equal to zero. This magic number is read as MSB first.
